@@ -1,0 +1,17 @@
+[
+    {
+        "title": "THE 10X RULE ",
+        "author": "GRAND CARDON ",
+        "year": 2015,
+        "genre": "user",
+        "read": true
+    },
+    {
+        "title": "THE GRAND CARDON ",
+        "author": "THE 10X RULE ",
+        "year": 1000,
+        "genre": "DFEE",
+        "read": true,
+        "favorite": true
+    }
+]
